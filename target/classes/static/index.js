@@ -49,9 +49,8 @@ function randomUser(){
             userImage.src = userData.picture.large;
 
             var userName = document.getElementById("user-name");
-            userName.innerHTML = userData.name.first + " " +
-                                    userData.name.last;
-
+            userName.innerHTML = userData.name.first + " " + userData.name.last;
+ 
             var userGender = document.getElementById("user-gender");
             userGender.innerHTML = userData.gender;
         })
