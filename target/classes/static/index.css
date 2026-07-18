@@ -1,7 +1,7 @@
 
 body{
     margin: 0px;
-    background-color: whitesmoke;
+    background-color: white;
 }
 
 h1 {
@@ -14,7 +14,7 @@ h1 {
     border-color: gray;
     padding: 20px;
     text-align: center;
-    background-color: white;
+    background-color: whitesmoke;
 }
 
 .navbar a{
@@ -39,7 +39,7 @@ h1 {
     margin-left: auto;
     margin-right: auto;
     padding-bottom: 20px;
-    background-color: rgb(168, 151, 151);
+    background-color: white;
 }
 
 .card img{
