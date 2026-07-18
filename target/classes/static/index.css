@@ -36,7 +36,6 @@ h1 {
     text-align: center;
     margin-top: 70px;
     overflow: hidden;
-    /* margin-left: 40%; */
     margin-left: auto;
     margin-right: auto;
     padding-bottom: 20px;
@@ -53,4 +52,5 @@ h1 {
     padding: 10px;
     width: 80%;
     border-radius: 8px;
+    background-color: bisque;
 }
