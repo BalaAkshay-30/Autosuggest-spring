@@ -1,7 +1,7 @@
 
 body{
     margin: 0px;
-    background-color: rgb(184, 175, 175);
+    background-color: whitesmoke;
 }
 
 h1 {
@@ -25,12 +25,12 @@ h1 {
 }
 
 .navbar a:hover{
-    color: blue;
-    background-color: aqua;
+    color:red;
+    background-color:cornsilk;
 }
 
 .card{
-    border: 1px solid black;
+    border: 2px solid black;
     width: 350px;
     border-radius: 30px;
     text-align: center;
@@ -40,7 +40,7 @@ h1 {
     margin-left: auto;
     margin-right: auto;
     padding-bottom: 20px;
-    background-color: white;
+    background-color: rgb(168, 151, 151);
 }
 
 .card img{
@@ -53,4 +53,4 @@ h1 {
     padding: 10px;
     width: 80%;
     border-radius: 8px;
-}```
+}
